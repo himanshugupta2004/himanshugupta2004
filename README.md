@@ -13,6 +13,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=himanshugupta2004&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=himanshugupta2004&icon=0&color=2)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=himanshugupta2004&label=Profile%20Views&color=0e75b6&style=flat)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
